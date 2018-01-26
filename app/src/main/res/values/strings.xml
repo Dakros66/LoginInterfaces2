@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginInterfaces2</string>
+    <string name="nombreUsuario">Nombre</string>
+    <string name="nombrePassword">Contraseña</string>
+    <string name="nombreLoginButton">Login</string>
+    <string name="nombreLoginCuenta">¿No tienes cuenta?, Registrate!!!</string>
+
+
+</resources>
